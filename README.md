@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @fahad-vadakkumpadath
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 fahad-vadakkumpadath/fahad-vadakkumpadath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
